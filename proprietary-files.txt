@@ -79,6 +79,9 @@ system_ext/etc/permissions/audiosphere.xml|015ad7be4921039238bfa3d34d052d752453e
 system_ext/framework/audiosphere.jar|db76dab5f44013265df54ae41073184d9a0423e9
 vendor/lib64/soundfx/libasphere.so|7d01becf38d808b232aef88025e4dd69839b788f
 vendor/lib/soundfx/libasphere.so|44cd20e13920888b29d3b2e4bb0b2559a746bf8f
+vendor/lib/soundfx/libdirac.so
+vendor/lib/soundfx/libmisoundfx.so
+vendor/lib/soundfx/libshoebox.so
 
 # Audio (speaker amplifier) firmware
 vendor/firmware/tas2563_uCDSP.bin
